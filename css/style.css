@@ -1,0 +1,45 @@
+
+.project {
+  background-color: #fff;
+  border-radius: 1rem;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}
+
+.project-title {
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.project-date {
+  font-size: 12px;
+  font-weight: 500;
+}
+
+.project-description {
+  font-size: 17px;
+  font-weight: 300;
+}
+
+.label {
+  font-size: 12px;
+  font-weight: 500;
+  padding: 5px 8px 5px 8px;
+  color: #fff;
+}
+
+#ongoing {
+  background-color: #86d886;
+}
+
+#finished {
+  background-color: lightblue;
+}
+
+h1 {
+  font-weight: 300;
+}
+
+h3 {
+  font-weight: 700;
+}
