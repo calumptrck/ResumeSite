@@ -1,9 +1,14 @@
 
+.profile {
+  border-radius: 1rem;
+}
+
 .project {
-  background-color: #fff;
+  background-color: #191a1d;
   border-radius: 1rem;
   font-family: 'Source Sans Pro', sans-serif;
-
+  padding: 10px 25px 10px 20px;
+  min-height: 200px;
 }
 
 .project-title {
@@ -21,6 +26,12 @@
   font-weight: 300;
 }
 
+.project-t {
+  font-size: 16px;
+  font-weight: 500;
+  margin-top: -5px;
+}
+
 .label {
   font-size: 12px;
   font-weight: 500;
@@ -28,12 +39,12 @@
   color: #fff;
 }
 
-#ongoing {
-  background-color: #86d886;
+#finished {
+  background-color: #5b9666;
 }
 
-#finished {
-  background-color: lightblue;
+#ongoing {
+  background-color: #6f909b;
 }
 
 h1 {
@@ -42,4 +53,35 @@ h1 {
 
 h3 {
   font-weight: 700;
+}
+
+body {
+  background-color: #1C1D21;
+}
+
+#white {
+  color: #fff;
+}
+
+hr {
+  background-color: #323337;
+}
+
+.design {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+a {
+  color: #fff;
+  border-bottom: 1px solid #fff;
+  padding-bottom: 1px;
+}
+
+iframe {
+  margin-top: 10px;
+}
+
+.large {
+  font-size: 18px;
 }
