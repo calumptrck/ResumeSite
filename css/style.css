@@ -1,18 +1,18 @@
 
 .profile {
-  border-radius: 1rem;
+  border-radius: 0.75rem;
 }
 
 .project {
   background-color: #191a1d;
-  border-radius: 1rem;
+  border-radius: .75rem;
   font-family: 'Source Sans Pro', sans-serif;
   padding: 10px 25px 10px 20px;
   min-height: 200px;
 }
 
 .dproject {
-  border-radius: 1rem;
+  border-radius: rem;
   font-family: 'Source Sans Pro', sans-serif;
   padding: 0px 25px 10px 0px;
   min-height: 200px;
